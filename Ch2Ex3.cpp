@@ -1,6 +1,6 @@
 /*
 File Name: Ch2Ex3.cpp 
-Github URL:
+Github URL: https://github.com/clk2039/Ch2Ex3.git
 Programmer : Kit Miller
 Date : September 2025
 Requirements: Create a program that will compute the total sales tax
